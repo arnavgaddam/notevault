@@ -2,6 +2,7 @@
   "expo": {
     "name": "notevault",
     "slug": "notevault",
+    "scheme": "notevault",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

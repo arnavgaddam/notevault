@@ -33,3 +33,5 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+notevault_api/notevault-414100-1196f2a9bf0b.json
+notevault_api/notevault-firebase-key.json
